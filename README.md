@@ -21,10 +21,11 @@
 
 - [ ] 图解HTTP
 - [x] 你不知道的JavaScript系列(上)
-- [ ] JavaScript高级程序设计-第四版(去年看了大部分，今年再刷)
-- [ ] CSS设计指南-第3版(好几年前看的了，很基础，今年再刷)
+- [ ] JavaScript高级程序设计-第四版
 - [ ] 你不知道的JavaScript系列(中)
-- [ ] 深入浅出Vue.js
 - [ ] 你不知道的JavaScript系列(下)
+- [ ] 学习JavaScript数据结构与算法（第3版）
+- [ ] 深入浅出Vue.js
+- [ ] JavaScript设计模式与开发实践
 - [ ] 剑指Offer
 
