@@ -18,12 +18,13 @@
 
 ## TODO
 
-- [ ] 图解HTTP
 - [x] 你不知道的JavaScript系列(上)
-- [ ] 你不知道的JavaScript系列(中)
-- [ ] JavaScript高级程序设计-第四版
+- [x] 你不知道的JavaScript系列(中)
+- [x] JavaScript高级程序设计-第四版
 - [x] 学习JavaScript数据结构与算法（第3版）
-- [ ] 深入浅出Vue.js
 - [x] JavaScript设计模式与开发实践
+- [ ] 深入浅出Vue.js
+- [ ] Vue.js设计与实现
+- [ ] 图解HTTP
 - [ ] 剑指Offer
 
